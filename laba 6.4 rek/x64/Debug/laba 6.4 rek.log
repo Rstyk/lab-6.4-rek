@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  laba 6.4 rek.cpp
+C:\Users\ACER\source\repos\lab 6.4 rek\lab 6.4 rek\lab 6.4 rek.cpp(62,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ACER\source\repos\lab 6.4 rek\laba 6.4 rek\laba 6.4 rek.cpp(16,15): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     Creating library C:\Users\ACER\source\repos\lab 6.4 rek\x64\Debug\laba 6.4 rek.lib and object C:\Users\ACER\source\repos\lab 6.4 rek\x64\Debug\laba 6.4 rek.exp
+  laba 6.4 rek.vcxproj -> C:\Users\ACER\source\repos\lab 6.4 rek\x64\Debug\laba 6.4 rek.dll
